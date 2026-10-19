@@ -1,0 +1,7 @@
+# .gitignore mínimo para este proyecto
+*.bak
+*.mdf
+*.ldf
+*.csv
+*.env
+secretos*
