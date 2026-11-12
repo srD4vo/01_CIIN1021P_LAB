@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6af52c960c7bbee9389fc671"
+  },
+  "atencionId": 1101,
+  "tipo": "CONSULTA",
+  "fecha": {
+    "$date": "2026-10-01T00:00:00.000Z"
+  },
+  "estado": "PENDIENTE",
+  "datos": {
+    "canal": "PRESENCIAL",
+    "minutosEspera": 20
+  },
+  "etiquetas": [
+    "CONSULTA",
+    "PRESENCIAL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af52f2474c0f148463fdc4a"
+  },
+  "atencionId": 1102,
+  "tipo": "CONTROL",
+  "estado": "REVISADA",
+  "fecha": {
+    "$date": "2026-10-02T00:00:00.000Z"
+  },
+  "datos": {
+    "canal": "VIRTUAL",
+    "minutosEspera": 35,
+    "revisionRequerida": true
+  },
+  "etiquetas": [
+    "SEGUIMIENTO",
+    "REMOTO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af52f2474c0f148463fdc4b"
+  },
+  "atencionId": 1103,
+  "tipo": "VACUNACION",
+  "estado": "PENDIENTE",
+  "fecha": {
+    "$date": "2026-10-03T00:00:00.000Z"
+  },
+  "datos": {
+    "dosis": 2,
+    "vacuna": "SIM-V"
+  },
+  "etiquetas": [
+    "PREVENCION",
+    "VACUNACION"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af52f2474c0f148463fdc4c"
+  },
+  "atencionId": 1104,
+  "tipo": "LABORATORIO",
+  "estado": "PENDIENTE",
+  "fecha": {
+    "$date": "2026-10-04T00:00:00.000Z"
+  },
+  "datos": {
+    "prueba": "SIM-GLU",
+    "valor": 95,
+    "unidad": "mg/dL"
+  },
+  "etiquetas": [
+    "LABORATORIO"
+  ]
+}]
