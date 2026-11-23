@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\CuboAtenciones.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|solutionrelative:DataSaludT06_Cubo\\CuboAtenciones.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Grupo Etario.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|solutionrelative:DataSaludT06_Cubo\\Dim Grupo Etario.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Tipo Atencion.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|solutionrelative:DataSaludT06_Cubo\\Dim Tipo Atencion.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|solutionrelative:DataSaludT06_Cubo\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Establecimiento.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|solutionrelative:DataSaludT06_Cubo\\Dim Establecimiento.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\BD Data Salud Tema06.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{618831BE-3496-5EC6-7782-722967F5DAE5}|DataSaludT06_Cubo\\DataSaludT06_Cubo.dwproj|solutionrelative:DataSaludT06_Cubo\\BD Data Salud Tema06.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuboAtenciones.cube [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\CuboAtenciones.cube",
+              "RelativeDocumentMoniker": "DataSaludT06_Cubo\\CuboAtenciones.cube",
+              "ToolTip": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\CuboAtenciones.cube [Dise\u00F1o]",
+              "RelativeToolTip": "DataSaludT06_Cubo\\CuboAtenciones.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T18:27:33.695Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Grupo Etario.dim [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Grupo Etario.dim",
+              "RelativeDocumentMoniker": "DataSaludT06_Cubo\\Dim Grupo Etario.dim",
+              "ToolTip": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Grupo Etario.dim [Dise\u00F1o]",
+              "RelativeToolTip": "DataSaludT06_Cubo\\Dim Grupo Etario.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T16:58:19.234Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Tipo Atencion.dim [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Tipo Atencion.dim",
+              "RelativeDocumentMoniker": "DataSaludT06_Cubo\\Dim Tipo Atencion.dim",
+              "ToolTip": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Tipo Atencion.dim [Dise\u00F1o]",
+              "RelativeToolTip": "DataSaludT06_Cubo\\Dim Tipo Atencion.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T16:57:08.488Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Establecimiento.dim [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Establecimiento.dim",
+              "RelativeDocumentMoniker": "DataSaludT06_Cubo\\Dim Establecimiento.dim",
+              "ToolTip": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Establecimiento.dim [Dise\u00F1o]",
+              "RelativeToolTip": "DataSaludT06_Cubo\\Dim Establecimiento.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T16:50:24.874Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Fecha.dim [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Fecha.dim",
+              "RelativeDocumentMoniker": "DataSaludT06_Cubo\\Dim Fecha.dim",
+              "ToolTip": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\Dim Fecha.dim [Dise\u00F1o]",
+              "RelativeToolTip": "DataSaludT06_Cubo\\Dim Fecha.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T16:39:14.064Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BD Data Salud Tema06.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\BD Data Salud Tema06.dsv",
+              "RelativeDocumentMoniker": "DataSaludT06_Cubo\\BD Data Salud Tema06.dsv",
+              "ToolTip": "E:\\Cursos 2026-2\\BASE DATOS AVANZ. Y BIG DATA - 2do Profe\\Actividades - Profesor de  Practica\\Semana 06\\DataSaludT06_Cubo\\DataSaludT06_Cubo\\BD Data Salud Tema06.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "DataSaludT06_Cubo\\BD Data Salud Tema06.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-23T16:35:23.438Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
