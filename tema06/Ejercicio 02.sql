@@ -1,1 +1,0 @@
-SELECT SERVERPROPERTY('edition') AS EdicionInstalada;
